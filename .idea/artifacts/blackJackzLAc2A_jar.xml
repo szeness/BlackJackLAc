@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="blackJackzLAc2A:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/blackJackzLAc2A_jar</output-path>
+    <root id="archive" name="blackJackzLAc.jar">
+      <element id="module-output" name="blackJackzLAc" />
+    </root>
+  </artifact>
+</component>
