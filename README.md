@@ -38,6 +38,4 @@ Gonna fix it later so can dl and check, since the code itself really not beautif
 
 
 
-not all rules is 100%. 
-
-Double came to it aswell, works fine. 
+not all rules is 100% right, I wasnt aware of them exactly and Double came to it aswell with not exact rules, works fine. 
