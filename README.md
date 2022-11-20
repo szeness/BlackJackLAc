@@ -46,3 +46,5 @@ Gonna fix it later so can dl and check, since the code itself really not beautif
 
 
 not all rules is 100% right, I wasnt aware of them exactly and Double came to it aswell with not exact rules, works fine. 
+
+also not all cards is added, but as far as I remember you cant pull more then 4 of one kind. tho every number is just one time in the pack 
