@@ -1,5 +1,6 @@
 # BlackJacklac
-beta 
+
+![image](https://user-images.githubusercontent.com/105649203/202902544-a69f375b-80ad-4279-b320-63f5df1133bf.png)
 
 so this is it, my first Java Game with Swing Gui.
 
