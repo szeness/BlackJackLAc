@@ -31,17 +31,17 @@ also when u win with 21, the car will move by itself every time a little bit. an
 
 its nothing with deaper thoughts, just to see keylistener and the thinking of how to describe the dots meeting and how to describe the radius of the picture size not just the one dot of it. 
 
-yea so u can play it there is a little credi system inside but in this version its just 500 credit and 50euro bets or so. 
+yea so u can play it there is a little credit system inside but in this version its just 500 credit and 50euro bets. 
 
 there is another version of this where I for first time implemented a sql database into my program. 
-its for login and credit system to be saved. there if you dont login u wont see the game area. and user management had to happen in the sql db. 
+its for login and credit system. there if you dont login u wont see the game area. and user management had to happen in the sql db. 
 its nice tho but not needed now. 
 
-(the same system i then used at my timestamps app, where users can login and start time of work with options wich task to choose. 
-And it has a Admin area where users can be registered and edited aswell as the taks to clock in. its in Gui Swing aswell. ) 
+(the same system i then used at my timestamps app, where users can login and start time of work with option for choosing a task. 
+And it has an admin area where users can be registered and edited aswell as the tasks. its in Gui Swing aswell. ) 
 
-not all rules is 100% right, I wasnt aware of them exactly and Double came to it aswell with not exact rules, works fine. 
+not all rules is 100% right, I wasnt aware of them exactly and Double came to it later, in this game you always can double up if the initial cards are equal in number.
 
-also not all cards is added, but as far as I remember I have a rule so that you cant pull more then 4 of one kind. tho every number is just one time in the pack 
+also not all cards is added, but as far as I remember I have a rule so that you cant pull more then 4 of one number. tho every number is just one time in the pack 
 
 
