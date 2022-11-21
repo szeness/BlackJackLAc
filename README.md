@@ -18,7 +18,7 @@ just for example the cards I create as objects in arrays and so only as much as 
 
 so that was the first time I realized how amazing the oop is.  
 
-so this was actualy a console game, u still can see it if you press 'V' it will show the console with the by characters drawen cards.. 
+so this was actualy a console game I did to help a school mate understand the processing of coding from zero, u still can see it if you press 'V' it will show the console with the by characters drawen cards.. 
 
 then I wanted to implement it in Swing, its my first steps ever to see how in Java a Gui can be operated. 
 
