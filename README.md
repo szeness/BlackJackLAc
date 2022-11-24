@@ -23,7 +23,7 @@ so this was actualy a console game I did to help a school mate understand the pr
 then I wanted to implement it in Swing, its my first steps ever to see how in Java a Gui can be operated. 
 
 I tried for the first time the location in pixel coordinates to use them for placing ofcourse, but also to use keylistener and to move Labels with pictures around. 
-also to code how to colidate dots if they meet the same pixel. yea nothing special very basic thinking but fun.
+also to code how to colidate dots if they meet the same pixel. 
 
 so there is a car wich u can move with WASD buttons, and if u hit a point it will come to an explosion.
 
