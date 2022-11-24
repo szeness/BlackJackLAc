@@ -27,7 +27,7 @@ also to code how to colidate dots if they meet the same pixel.
 
 so there is a car wich u can move with WASD buttons, and if u hit a point it will come to an explosion.
 
-also when u win with 21, the car will move by itself every time a little bit. and it will hit the explosion point after 10 wins or so.
+also when u win with 21, the car will move by itself every time a little bit further until it reachesthe explosion point after 10 wins or so.
 
 its nothing with deaper thoughts, just to see keylistener and the thinking of how to describe the dots meeting and how to describe the radius of the picture size not just the one dot of it. 
 
