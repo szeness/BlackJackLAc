@@ -10,7 +10,7 @@ here is when u press 'V' the console game apears
 
 
 
-back then I didnt know oop. I learned it at that time tho and implemented it.
+back then I didnt know object orianted programing. I learned it at that time tho and implemented it.
 
 tho it was written functional and still is.
 
