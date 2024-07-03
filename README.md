@@ -9,6 +9,5 @@ here is when u press 'V' the console game apears
 ![image](https://user-images.githubusercontent.com/105649203/202902602-527e9b90-de77-44a6-ab12-7df4b06b04f0.png)
 
 
-
-
+Ive tried out different methods to move objects by keyboard, therefore there is the car inside it which can be moved. also some action happening when you win by 21. 
 
